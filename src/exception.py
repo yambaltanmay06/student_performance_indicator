@@ -1,4 +1,4 @@
-import sys 
+import sys ##(to manipulate different parts of python runtime environment)
 import logging
 
 def error_message_detail(error,error_detail:sys):
